@@ -8,3 +8,6 @@ python root_main.py
 ```
 ### Future plans: 
 Currently, the application has a basic functionality that allows users to use the Ctrl+F shortcut to highlight specific phrases in the displayed transcript. This feature is particularly useful for long podcasts that can span an hour or more.
+
+
+![image](https://github.com/saboel/youtube-transcript/assets/57048754/7c17c134-a9f8-47c0-b6bb-fe7f30ad8324)
